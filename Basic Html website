@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Vineeth Sreenivasan</title>
+        
+    </head>
+    <body bgcolor="Black" style="color:white">
+        <center>
+            <h1>Vineeth Sreenivasan</h1>
+
+
+            <h4>Indian playback singer|Actor|Director</h4>
+        
+            <img src="vinee2.jpg" width="300px" height="300px"><img src="vinee.jpg" width="300px" height="300px"><img src="vinee4.jpg" width="300px" height="300px">
+        </center>
+        
+        <hr>
+        <center>
+        <p>A popular personality in the Malayalam film industry, Vineeth Sreenivasan is a multitalented artist. Vineeth who started his career as a playback singer has also worked as a lyricist, actor, director, producer and scriptwriter. Vineeth made his debut as a singer in the film industry with Kilichundan Mampazham in 2003 before eventually establishing himself as an accomplished singer. 
+He even did his own musical albums like Malayalee (2007), Cofee @ MG Road (2008), Ekanaay (2009) and Anbe (2013). The talented star, after making a name for himself as a singer, he moved to acting and made his debut with Cycle in 2008. Two years later, he ventured into direction and his maiden directorial venture was Malarvadi Arts Club. In 2016, he also produced a film titled Aanandam, under his own production company named Habit of Life.</p>
+        <h2>Favourite Songs</h2>
+        <h1>
+            <a href="https://www.youtube.com/watch?v=N_zXtXla2-c">Onakka Munthiri</a>|<a href="https://www.youtube.com/watch?v=fiAlruU48HI">Aluva Puzha</a>|<a href="https://www.youtube.com/watch?v=FXiaIH49oAU">Jimikki Kammal</a>
+        </h1>    
+        <h2>Youtube Video</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/3nhC9dIU970?si=1NO-FsH2hPIJ2UYq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center> 
+
+    </body>
+</html><!DOCTYPE html>
